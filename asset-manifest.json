@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Movie-App-clone/static/css/main.e45fb457.css",
+    "main.js": "/Movie-App-clone/static/js/main.27b7f2bc.js",
+    "index.html": "/Movie-App-clone/index.html",
+    "main.e45fb457.css.map": "/Movie-App-clone/static/css/main.e45fb457.css.map",
+    "main.27b7f2bc.js.map": "/Movie-App-clone/static/js/main.27b7f2bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e45fb457.css",
+    "static/js/main.27b7f2bc.js"
+  ]
+}
